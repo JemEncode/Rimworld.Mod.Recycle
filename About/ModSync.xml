@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>fe1babb5-bf51-423e-bda2-482a04478bb3</ID>
   <ModName>Recycle</ModName>
-  <Version>1.0.0.1</Version>
+  <Version>1.0.0.2</Version>
   <SaveBreaking>True</SaveBreaking>
   <Host name="Github">
     <Owner>JemEncode</Owner>
