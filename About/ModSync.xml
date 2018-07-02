@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModSyncNinjaData>
+  <ID>fe1babb5-bf51-423e-bda2-482a04478bb3</ID>
+  <ModName>Recycle</ModName>
+  <Version>1.0.0.1</Version>
+  <SaveBreaking>True</SaveBreaking>
+  <Host name="Github">
+    <Owner>JemEncode</Owner>
+    <Project>Rimworld.Mod.Recycle</Project>
+    <AboutDir>About</AboutDir>
+    <DownloadFrom>ModSyncMainPage</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
+</ModSyncNinjaData>
